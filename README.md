@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 <span>  </span>
 </div>
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Quenkar&theme=minimal" />
+</div>
+
