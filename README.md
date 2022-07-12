@@ -27,5 +27,6 @@ Here are some ideas to get you started:
     <img src="https://activity-graph.herokuapp.com/graph?username=Quenkar&theme=minimal" />
 </div>
 
-🌱 I’m currently learning database.
+🌱 I’m currently learning distributed database.
+
 📫 How to reach me: 15172118655@163.com.
