@@ -27,4 +27,5 @@ Here are some ideas to get you started:
     <img src="https://activity-graph.herokuapp.com/graph?username=Quenkar&theme=minimal" />
 </div>
 
-📫 How to reach me: 15172118655@163.com
+🌱 I’m currently learning database.
+📫 How to reach me: 15172118655@163.com.
