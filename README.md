@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+quenkar.)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+quenkar.)](https://git.io/typing-svg)
 
 <div align="center">
 <span>  </span>
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 <span>  </span>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
