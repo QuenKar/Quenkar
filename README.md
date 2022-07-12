@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="left>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+quenkar.)](https://git.io/typing-svg)
-
+</div>
 <div align="left">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Quenkar" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quenkar&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 
-<div align="center">
+<div align="left">
     <img src="https://activity-graph.herokuapp.com/graph?username=Quenkar&theme=minimal" />
 </div>
 
