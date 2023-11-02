@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F00078&center=true&lines=Hello!+I'm+quenkar.;Welcome!)](https://git.io/typing-svg)
 
-            
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Quenkar" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quenkar&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
-
 
 
 🌱 I’m currently learning distributed database.
