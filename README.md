@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning distributed database.
 
-📫 How to reach me: 15172118655@163.com.
+📫 How to reach me: async_zouwei@outlook.com.
