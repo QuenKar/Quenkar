@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F00078&center=true&lines=Hello!+I'm+quenkar.;Welcome!)](https://git.io/typing-svg)
 
-
-
-🌱 I’m currently learning distributed database.
+🌱 I’m currently learning database.
 
 📫 How to reach me: async_zouwei@outlook.com.
