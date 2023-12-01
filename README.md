@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 Currently as an intern at GreptimeTeam.
 
 🌱 I’m currently learning database.
 
